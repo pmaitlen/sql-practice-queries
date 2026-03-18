@@ -2,6 +2,7 @@
 
 This project contains SQL queries demonstrating joins, grouping, filtering, and aggregation techniques.
 
+![SQL Query Example](sql-query-example.jpg)
 
 
 The queries analyze structured data to generate category summaries, value calculations, low stock reports, and pricing statistics.
